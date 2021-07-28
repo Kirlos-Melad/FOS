@@ -1,5 +1,6 @@
 # What is FOS?
 It's a dummy Operating System given to us - **students** - for assignments/tasks through out the semester.
+For more information you will find it [here](https://github.com/mahossam/FOS-Ain-Shams-University-Educational-OS)
 # Why did i upload it on github?
 Well i found it very interestng making my own OS so i want to keep it, Also you may find it interesting too and start editing it yourself who knows?.
 # Is this all the work i've done through out the semester?
